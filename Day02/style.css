@@ -1,0 +1,12 @@
+body{
+    background-color: pink;
+}
+
+.lorem{
+    color: blueviolet;
+    cursor: pointer;
+}
+pre:hover{
+    color: red;
+    background-color: black;
+}

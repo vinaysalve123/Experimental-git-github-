@@ -1,0 +1,13 @@
+.parent-container > div{
+    text-align: center;
+    width: 100px;
+    background-color: green;
+    margin: 10px;
+    font-size: 30px;
+    line-height: 75px;
+}
+.parent-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
